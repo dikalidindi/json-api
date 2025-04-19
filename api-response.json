@@ -1,0 +1,212 @@
+[
+  {
+    "id": "flow001",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "2025-04-25T00:00:00.000Z",
+    "inventoryType": "mediaconnect",
+    "status": "idle",
+    "eventId": "4423423",
+    "availabilityZone": "ap-south-1a",
+    "primary": true,
+    "output": {
+      "arn": "",
+      "ip": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "flow002",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "2025-04-25T00:00:00.000Z",
+    "inventoryType": "mediaconnect",
+    "status": "idle",
+    "eventId": "4423423",
+    "availabilityZone": "ap-south-1b",
+    "primary": true,
+    "output": {
+      "arn": "",
+      "ip": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "flow003",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "2025-04-25T00:00:00.000Z",
+    "inventoryType": "mediaconnect",
+    "status": "idle",
+    "eventId": "4423423",
+    "availabilityZone": "ap-south-1c",
+    "primary": true,
+    "output": {
+      "arn": "",
+      "ip": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "flow004",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "2025-04-25T00:00:00.000Z",
+    "inventoryType": "mediaconnect",
+    "status": "idle",
+    "eventId": "4423423",
+    "availabilityZone": "ap-south-1a",
+    "primary": true,
+    "output": {
+      "arn": "",
+      "ip": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "flow005",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "2025-04-25T00:00:00.000Z",
+    "inventoryType": "mediaconnect",
+    "status": "idle",
+    "eventId": "4423423",
+    "availabilityZone": "ap-south-1b",
+    "primary": true,
+    "output": {
+      "arn": "",
+      "ip": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "flow006",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "2025-04-25T00:00:00.000Z",
+    "inventoryType": "mediaconnect",
+    "status": "idle",
+    "eventId": "4423423",
+    "availabilityZone": "ap-south-1c",
+    "primary": false,
+    "output": {
+      "arn": "",
+      "ip": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "flow007",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "2025-04-25T00:00:00.000Z",
+    "inventoryType": "mediaconnect",
+    "status": "idle",
+    "eventId": "4423423",
+    "availabilityZone": "ap-south-1a",
+    "primary": false,
+    "output": {
+      "arn": "",
+      "ip": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "flow008",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "2025-04-25T00:00:00.000Z",
+    "inventoryType": "mediaconnect",
+    "status": "idle",
+    "eventId": "4423423",
+    "availabilityZone": "ap-south-1b",
+    "primary": false,
+    "output": {
+      "arn": "",
+      "ip": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "flow009",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "2025-04-25T00:00:00.000Z",
+    "inventoryType": "mediaconnect",
+    "status": "idle",
+    "eventId": "4423423",
+    "availabilityZone": "ap-south-1c",
+    "primary": false,
+    "output": {
+      "arn": "",
+      "ip": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "flow010",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "2025-04-25T00:00:00.000Z",
+    "inventoryType": "mediaconnect",
+    "status": "idle",
+    "eventId": "4423423",
+    "availabilityZone": "ap-south-1a",
+    "primary": false,
+    "output": {
+      "arn": "",
+      "ip": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  }
+]
