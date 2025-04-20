@@ -1,0 +1,222 @@
+[
+  {
+    "id": "live001",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "",
+    "inventoryType": "medialive",
+    "inputType": "srt_caller",
+    "inputClass": "standard",
+    "channelClass": "standard",
+    "status": "idle",
+    "eventId": "event001",
+    "output": {
+      "arn": "",
+      "id": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "live002",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "",
+    "inventoryType": "medialive",
+    "inputType": "srt_caller",
+    "inputClass": "standard",
+    "channelClass": "single",
+    "status": "idle",
+    "eventId": "event002",
+    "output": {
+      "arn": "",
+      "id": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "live003",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "",
+    "inventoryType": "medialive",
+    "inputType": "srt_caller",
+    "inputClass": "standard",
+    "channelClass": "standard",
+    "status": "idle",
+    "eventId": "event003",
+    "output": {
+      "arn": "",
+      "id": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "live004",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "",
+    "inventoryType": "medialive",
+    "inputType": "srt_caller",
+    "inputClass": "standard",
+    "channelClass": "single",
+    "status": "idle",
+    "eventId": "event004",
+    "output": {
+      "arn": "",
+      "id": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "live005",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "",
+    "inventoryType": "medialive",
+    "inputType": "srt_caller",
+    "inputClass": "standard",
+    "channelClass": "standard",
+    "status": "idle",
+    "eventId": "event005",
+    "output": {
+      "arn": "",
+      "id": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "live006",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "",
+    "inventoryType": "medialive",
+    "inputType": "srt_caller",
+    "inputClass": "standard",
+    "channelClass": "single",
+    "status": "idle",
+    "eventId": "event006",
+    "output": {
+      "arn": "",
+      "id": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "live007",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "",
+    "inventoryType": "medialive",
+    "inputType": "srt_caller",
+    "inputClass": "standard",
+    "channelClass": "standard",
+    "status": "idle",
+    "eventId": "event007",
+    "output": {
+      "arn": "",
+      "id": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "live008",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "",
+    "inventoryType": "medialive",
+    "inputType": "srt_caller",
+    "inputClass": "standard",
+    "channelClass": "single",
+    "status": "idle",
+    "eventId": "event008",
+    "output": {
+      "arn": "",
+      "id": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "live009",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "",
+    "inventoryType": "medialive",
+    "inputType": "srt_caller",
+    "inputClass": "standard",
+    "channelClass": "standard",
+    "status": "idle",
+    "eventId": "event009",
+    "output": {
+      "arn": "",
+      "id": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  },
+  {
+    "id": "live010",
+    "series": "ACC",
+    "version": 3.1,
+    "creationDate": "",
+    "inventoryType": "medialive",
+    "inputType": "srt_caller",
+    "inputClass": "standard",
+    "channelClass": "single",
+    "status": "idle",
+    "eventId": "event010",
+    "output": {
+      "arn": "",
+      "id": ""
+    },
+    "tags": [
+      {
+        "seriesInfo": "ACC",
+        "owner": "videoengineering"
+      }
+    ]
+  }
+]
