@@ -161,7 +161,7 @@
     "inventoryType": "medialive",
     "inputType": "srt_caller",
     "inputClass": "STANDARD",
-    "channelClass": "SINGLE_PIPELINE_PIPELINE",
+    "channelClass": "SINGLE_PIPELINE",
     "status": "idle",
     "eventId": "event008",
     "output": {
