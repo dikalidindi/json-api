@@ -1,47 +1,5 @@
 [
-  {
-    "id": "connect-86ed",
-    "series": "ACC",
-    "version": 3.1,
-    "creationDate": "",
-    "inventoryType": "mediaConnect",
-    "status": "idle",
-    "eventId": "",
-    "output": {
-      "arn": "",
-      "ip": ""
-    },
-    "tags": [
-      {
-        "seriesInfo": "ACC",
-        "owner": "videoengineering"
-      }
-    ],
-    "availabilityZone": "ap-south-1a",
-    "primary": "true"
-  },
-  {
-    "id": "connect-99d3",
-    "series": "ACC",
-    "version": 3.1,
-    "creationDate": "",
-    "inventoryType": "mediaConnect",
-    "status": "idle",
-    "eventId": "",
-    "output": {
-      "arn": "",
-      "ip": ""
-    },
-    "tags": [
-      {
-        "seriesInfo": "ACC",
-        "owner": "videoengineering"
-      }
-    ],
-    "availabilityZone": "ap-south-1a",
-    "primary": "true"
-  },
-  {
+ {
     "id": "live-e997",
     "series": "ACC",
     "version": 3.1,
