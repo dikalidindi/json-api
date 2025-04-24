@@ -18,7 +18,7 @@
       }
     ],
     "availabilityZone": "ap-south-1a",
-    "primary": "True"
+    "primary": true
   },
   {
     "id": "connect-99d3",
@@ -39,6 +39,6 @@
       }
     ],
     "availabilityZone": "ap-south-1a",
-    "primary": "True"
+    "primary": true
   }
 ]
