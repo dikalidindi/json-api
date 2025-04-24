@@ -38,7 +38,7 @@
         "owner": "videoengineering"
       }
     ],
-    "availabilityZone": "ap-south-1a",
+    "availabilityZone": "ap-south-1b",
     "primary": true
   }
 ]
