@@ -1,6 +1,6 @@
 [
   {
-    "id": "flow_7c49",
+    "id": "connect-86ed",
     "series": "ACC",
     "version": 3.1,
     "creationDate": "",
@@ -8,7 +8,8 @@
     "status": "idle",
     "eventId": "",
     "output": {
-      "arn": ""
+      "arn": "",
+      "ip": ""
     },
     "tags": [
       {
@@ -17,10 +18,10 @@
       }
     ],
     "availabilityZone": "ap-south-1a",
-    "primary": "true"
+    "primary": "True"
   },
   {
-    "id": "flow_22bc",
+    "id": "connect-99d3",
     "series": "ACC",
     "version": 3.1,
     "creationDate": "",
@@ -28,7 +29,8 @@
     "status": "idle",
     "eventId": "",
     "output": {
-      "arn": ""
+      "arn": "",
+      "ip": ""
     },
     "tags": [
       {
@@ -37,6 +39,6 @@
       }
     ],
     "availabilityZone": "ap-south-1a",
-    "primary": "true"
+    "primary": "True"
   }
 ]
