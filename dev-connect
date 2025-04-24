@@ -1,0 +1,5 @@
+[
+{"id": "flow_7c49", "series": "ACC", "version": 3.1, "creationDate": "", "inventoryType": "mediaConnect", "status": "idle", "eventId": "", "output": {"arn": ""}, "tags": [{"seriesInfo": "ACC", "owner": "videoengineering"}], "availabilityZone": "ap-south-1a", "primary": "true"},
+
+{"id": "flow_22bc", "series": "ACC", "version": 3.1, "creationDate": "", "inventoryType": "mediaConnect", "status": "idle", "eventId": "", "output": {"arn": ""}, "tags": [{"seriesInfo": "ACC", "owner": "videoengineering"}], "availabilityZone": "ap-south-1a", "primary": "true"}
+]
